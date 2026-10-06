@@ -81,7 +81,7 @@ jreleaser {
     release {
         github {
             skipRelease = false
-            repoOwner = "AnkiLove"
+            repoOwner = "omiyi"
             name = "Annaskills"
             tagName = gradleProject.property("projectVersion").toString()
             releaseName = gradleProject.property("projectVersion").toString()

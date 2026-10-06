@@ -2,8 +2,8 @@ name: Annaskills
 version: ${projectVersion}
 main: dev.aurelium.auraskills.bukkit.AuraSkills
 description: AuraSkills-based RPG skills plugin adapted for Paper and Folia 26.2
-authors: [Archyx, AnkiLove]
-website: https://github.com/AnkiLove/Annaskills
+authors: [Archyx, omiyi]
+website: https://github.com/omiyi/Annaskills
 softdepend:
 - WorldGuard
 - PlaceholderAPI

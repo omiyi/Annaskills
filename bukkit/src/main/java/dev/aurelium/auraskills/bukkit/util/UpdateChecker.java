@@ -20,7 +20,7 @@ import java.util.function.BiConsumer;
 
 public class UpdateChecker {
 
-    public static final String GITHUB_REPOSITORY = "AnkiLove/Annaskills";
+    public static final String GITHUB_REPOSITORY = "omiyi/Annaskills";
 
     private final AuraSkills plugin;
     public UpdateChecker(AuraSkills plugin) {
